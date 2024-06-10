@@ -1,0 +1,12 @@
+numpy
+pyarrow
+pandas
+matplotlib
+seaborn
+plotly
+nbformat
+scikit-learn
+statsmodels
+ipykernel
+streamlit
+python-dotenv
